@@ -23,7 +23,7 @@ sections:
   - type: grid_section
     section_id: clients
     title: Clients
-    subtitle: A few of the companies we're proud to work with
+    subtitle: Beberapa pelanggan yang puas dengan produk kami
     col_number: three
     grid_items:
       - image: images/logo-1.svg
