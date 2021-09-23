@@ -16,7 +16,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Produk Kami
-    subtitle: Explore case studies
+    subtitle: 'PVC RIGID, VACUUM FORMING & PLASTIC PACKAGING'
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
