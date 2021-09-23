@@ -5,9 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Halo selamat datan di Indoplastik Sukses, kami adalah produsen Award
-      Winning Agency Based in San Francisco and Focusing on Digital, Identity,
-      and Print Design.
+      Selamat datang di Indoplastik Sukses, produsen packaging plastik terbesar
+      di Tangerang. Focusing on Digital, Identity, and Print Design.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
