@@ -7,10 +7,13 @@ sections:
     title: >-
       Produsen & Supplier PVC Rigid, Vacuum Forming & Plastik Packaging terbesar
       di Tangerang.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      Kami adalah perusahaan indutry plastik **Pet Manufacturing** di Tangerang,
+      Indonesia. Produk kami terdiri dari tray dan mika plastik (untuk makanan,
+      buah, telur, elektronic) dan juga berdasarkan permintaan dari klien.
+      Material yang kami gunakan adalah PET, PVC PP, dan PET. Pabrik kami sudah
+      didukung dgn high speed vaccum forming machine jadi kami sanggup melayani
+      kebutuhan dgn jumlah jutaan. [Hubungi Kami.](/contact/)
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
