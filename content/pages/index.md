@@ -5,9 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Selamat datang di Indoplastik Sukses, produsen packaging plastik terbesar
-      di Tangerang. Dengan produk seperti PVC Rigid, Vacuum Forming dan
-      Packaging Plastic.
+      Produsen packaging plastik terbesar di Tangerang. Dengan produk seperti
+      PVC Rigid, Vacuum Forming dan Packaging Plastic.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
