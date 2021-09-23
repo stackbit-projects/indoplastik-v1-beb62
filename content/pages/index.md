@@ -16,7 +16,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Produk Kami
-    subtitle: 'PVC RIGID, VACUUM FORMING & PLASTIC PACKAGING'
+    subtitle: 'PVC Rigid, Vacuum Forming & Plastic Packaging'
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
